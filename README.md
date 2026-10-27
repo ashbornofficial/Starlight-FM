@@ -17,7 +17,7 @@ A desktop music player for **Windows** and **macOS** - play your own library, se
   <img alt="License" src="https://img.shields.io/badge/license-All%20Rights%20Reserved-d33f6f?style=for-the-badge">
 </p>
 
-[**Features**](#-features) &nbsp;&bull;&nbsp; [**Screenshots**](#-screenshots) &nbsp;&bull;&nbsp; [**Companion**](#-meet-the-companion) &nbsp;&bull;&nbsp; [**Download**](#-download--install) &nbsp;&bull;&nbsp; [**Build from source**](#-build-from-source) &nbsp;&bull;&nbsp; [**License**](#-copyright--license)
+[**Features**](#-features) &nbsp;&bull;&nbsp; [**Screenshots**](#-screenshots) &nbsp;&bull;&nbsp; [**Companion**](#-meet-the-companion) &nbsp;&bull;&nbsp; [**Download**](#-download--install) &nbsp;&bull;&nbsp; [**License**](#-copyright--license)
 
 </div>
 
