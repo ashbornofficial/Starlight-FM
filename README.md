@@ -29,30 +29,29 @@ Most players are either a plain file browser or a streaming website in a window.
 - **Fast.** Next YouTube songs are prepared in advance, so playback starts quickly.
 - **Fun.** A companion character that follows your cursor, reacts when you poke it and bounces with the beat.
 
-
 <!-- ============ WEBSITE LINKS - Starlight FM ============ -->
 <p align="center">
-  <a href="https://starlight-fm.netlify.com">
+  <a href="https://starlight-fm.netlify.app">
     <img src="https://img.shields.io/badge/%F0%9F%8C%90%20VISIT%20THE%20WEBSITE-8b5cff?style=for-the-badge&labelColor=1a1040" alt="Visit the Starlight FM website" height="46">
   </a>
   &nbsp;
-  <a href="https://starlight-fm.netlify.com/#download">
+  <a href="https://starlight-fm.netlify.app/#download">
     <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20FOR%20WINDOWS-4f6bff?style=for-the-badge&labelColor=1a1040" alt="Download Starlight FM for Windows" height="46">
   </a>
   &nbsp;
-  <a href="https://starlight-fm.netlify.com/#demo">
+  <a href="https://starlight-fm.netlify.app/#demo">
     <img src="https://img.shields.io/badge/%E2%96%B6%20WATCH%20THE%20DEMO-c14dff?style=for-the-badge&labelColor=1a1040" alt="Watch the demo" height="46">
   </a>
 </p>
 
 <p align="center">
   <sub>
-    <a href="https://starlight-fm.netlify.com/#features">Features</a> &nbsp;&bull;&nbsp;
-    <a href="https://starlight-fm.netlify.com/#screens">Screenshots</a> &nbsp;&bull;&nbsp;
-    <a href="https://starlight-fm.netlify.com/#companion">Companion</a> &nbsp;&bull;&nbsp;
-    <a href="https://starlight-fm.netlify.com/#faq">FAQ</a> &nbsp;&bull;&nbsp;
-    <a href="https://starlight-fm.netlify.com/privacy.html">Privacy</a> &nbsp;&bull;&nbsp;
-    <a href="https://starlight-fm.netlify.com/terms.html">Terms</a>
+    <a href="https://starlight-fm.netlify.app/#features">Features</a> &nbsp;&bull;&nbsp;
+    <a href="https://starlight-fm.netlify.app/#screens">Screenshots</a> &nbsp;&bull;&nbsp;
+    <a href="https://starlight-fm.netlify.app/#companion">Companion</a> &nbsp;&bull;&nbsp;
+    <a href="https://starlight-fm.netlify.app/#faq">FAQ</a> &nbsp;&bull;&nbsp;
+    <a href="https://starlight-fm.netlify.app/privacy.html">Privacy</a> &nbsp;&bull;&nbsp;
+    <a href="https://starlight-fm.netlify.app/terms.html">Terms</a>
   </sub>
 </p>
 <!-- ======================================================= -->
