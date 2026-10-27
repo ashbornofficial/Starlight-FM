@@ -141,8 +141,6 @@ Built with open-source software, each under its own licence - including Electron
 
 For permission or licensing inquiries, contact the copyright holder.
 
-See [LICENSE](LICENSE) for the full notice.
-
 ## Disclaimer
 
 This project is provided for informational and demonstration purposes. No warranty is provided, to the extent permitted by applicable law.
